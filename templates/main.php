@@ -48,9 +48,9 @@ html body {
 <body>
 
 <body>
-<h1 class = 'text_fade '>Animated Gradient Background</h1>
+<h1 class = 'text_fade '>Hüseyin Ali</h1>
  <h3 class = 'text_fade '>
-   <a href='https://www.senolguneci.com.tr'>www.senolguneci.com.tr</a>
+   <a href='http://hsynali.herokuapp.com/'>Proxy Site</a>
  </h3>
 <div></div>
 <div></div>
