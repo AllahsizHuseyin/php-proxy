@@ -50,7 +50,7 @@ html body {
 <body>
 <h1 class = 'text_fade '>Hüseyin Ali</h1>
  <h3 class = 'text_fade '>
-   <a href='http://hsynali.herokuapp.com/'>Proxy Site</a>
+   <a href='http://hsynali.herokuapp.com/'>Bum Be</a>
  </h3>
 <div></div>
 <div></div>
