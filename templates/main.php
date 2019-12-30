@@ -3,7 +3,7 @@
 <head>
 
 <title>Hüseyin Ali Proxy</title>
-<link href="main.css" type="text/css" rel="stylesheet" />
+<link href="./templates/main.css" type="text/css" rel="stylesheet" />
 <meta name="generator" content="php-proxy.com">
 <meta name="version" content="<?=$version;?>">
 
