@@ -4,7 +4,7 @@
 
 <title>Hüseyin Ali Proxy</title>
 <style type="text/css">
-@import "style.css";
+@import "main.css";
 </style>
 <meta name="generator" content="php-proxy.com">
 <meta name="version" content="<?=$version;?>">
@@ -49,6 +49,15 @@ html body {
 
 <body>
 
+<body>
+<h1 class = 'text_fade '>Animated Gradient Background</h1>
+ <h3 class = 'text_fade '>
+   <a href='https://www.senolguneci.com.tr'>www.senolguneci.com.tr</a>
+ </h3>
+<div></div>
+<div></div>
+<div></div>
+</body>
 
 
 <div id="container">
