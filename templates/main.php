@@ -3,7 +3,9 @@
 <head>
 
 <title>Hüseyin Ali Proxy</title>
-
+<style type="text/css">
+@import "style.css";
+</style>
 <meta name="generator" content="php-proxy.com">
 <meta name="version" content="<?=$version;?>">
 
@@ -26,7 +28,7 @@ html body {
 
 #frm {
 	padding:10px 15px;
-	background-color:#FFC8C8;
+	background-color:#000000;
 	
 	border:1px solid #818181;
 	
