@@ -91,9 +91,7 @@ html body {
 	
 </div>
 
-<div id="footer">
-	Powered by Hüseyin Ali <?php echo $version; ?>
-</div>
+
 
 
 </body>
