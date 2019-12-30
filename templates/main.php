@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<title>İnstaCimm Proxy</title>
+<title>Hüseyin Ali Proxy</title>
 
 <meta name="generator" content="php-proxy.com">
 <meta name="version" content="<?=$version;?>">
@@ -82,7 +82,7 @@ html body {
 </div>
 
 <div id="footer">
-	Powered by <a href="//www.instacimm.com/" target="_blank">İnstaCimm Proxy</a> <?php echo $version; ?>
+	Powered by Hüseyin Ali <?php echo $version; ?>
 </div>
 
 
