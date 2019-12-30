@@ -46,21 +46,13 @@ html body {
 </head>
 
 <body>
-<body>
-<h1 class = 'text_fade '>Animated Gradient Background</h1>
- <h3 class = 'text_fade '>
-   <a href='https://www.senolguneci.com.tr'>www.senolguneci.com.tr</a>
- </h3>
-<div></div>
-<div></div>
-<div></div>
-</body>
+
 
 
 <div id="container">
 
 	<div style="text-align:center;">
-		<h1 style="color:blue;">İnstaCimm Proxy</h1>
+		<h1 style="color:blue;"Hüseyin Ali </h1>
 	</div>
 	
 	<?php if(isset($error_msg)){ ?>
